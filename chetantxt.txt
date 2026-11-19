@@ -1,4 +1,3 @@
-addine new line 3 
 adding line number 2 
 adding line number 1
 chetantxt practice file 
